@@ -1,8 +1,4 @@
-#!/bin/bash
-# insfollow v2.0
-# recoded by: Vishnu kushwaha
-# github.com/Vishnu1Z/Hacki
-# If you use any part from this code, give me the credits, please, read the License
+
 
 clear
 string4=$(openssl rand -hex 32 | cut -c 1-4)
